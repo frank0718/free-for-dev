@@ -51,7 +51,7 @@ Table of Contents
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Other Free Resources](#other-free-resources)
 
-## Source Code Repos
+## Source Code Repos 源代码库
 
   * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private repos (Git and Mercurial) for up to 5 users with Pipelines for CI/CD
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
@@ -66,12 +66,12 @@ Table of Contents
   * [Deveo](https://deveo.com/) - [free](https://deveo.com/pricing/) cloud and  Git, Mercurial, or SVN repositories.
   * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
 
-## Artifact Repos
+## Artifact Repos 人工库
 
  * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
  * [packagecloud.io](https://packagecloud.io) - Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
 
-## Tools for Teams and Collaboration
+## Tools for Teams and Collaboration 团队协作工具
 
   * [scinote.net](http://scinote.net) — Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space
   * [appear.in](https://appear.in/) — One click video conversations, for free
@@ -100,7 +100,7 @@ Table of Contents
   * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
   * [riot.im](https://about.riot.im/) — A decentralized communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services. 
 
-## Code Quality
+## Code Quality 代码质量检查
 
   * [tachikoma.io](http://tachikoma.io/) — Dependency Update for Ruby, Node.js, Perl projects, free for Open Source
   * [gemnasium.com](https://gemnasium.com/) — Dependency Update for Ruby, Node.js projects, free for Open Source
@@ -133,14 +133,14 @@ Table of Contents
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
   * [sonarqube.com](https://sonarqube.com) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
 
-## Code Search and Browsing
+## Code Search and Browsing 代码搜索浏览
 
   * [codota.com](https://www.codota.com/) — Codota helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
   * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
   * [sourcegraph.com](https://sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
 
-## CI / CD
+## CI / CD 持续集成部署
 
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
@@ -161,7 +161,7 @@ Table of Contents
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
   * [dependencyci.com](https://dependencyci.com/) — Continuous dependency checking for GitHub repositories, free for open source
 
-## Automated Browser Testing
+## Automated Browser Testing 自动化浏览器测试
 
   * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
   * [saucelabs.com](https://saucelabs.com/) — Cross browser testing, Selenium testing and mobile testing, [free for Open Source](https://saucelabs.com/open-source)
@@ -169,7 +169,7 @@ Table of Contents
   * [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts,... free with fewer options
   * [Applitools.com](https://applitools.com/) — smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack). free for open source. A free tier for a single user with limited checkpoints per week.
 
-## Security and PKI
+## Security and PKI 安全
 
   * [pyup.io](https://pyup.io) — Monitory Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
   * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users
@@ -204,7 +204,7 @@ Table of Contents
   * [visualops.io](http://visualops.io/) — 3,600 instance hours/month free
   * [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones and Macs, 3 devices free
 
-## Log Management
+## Log Management 日志系统
 
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
@@ -214,7 +214,7 @@ Table of Contents
   * [sematext.com](https://sematext.com//logsene) — Free up to 500 MB/day, 7 days retention
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
 
-## Translation Management
+## Translation Management 翻译系统
 
   * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
   * [getlocalization.com](https://www.getlocalization.com/) — Free for public projects
@@ -225,7 +225,7 @@ Table of Contents
   * [instant.cm](https://instant.cm/) — Free for up to 2 languages and 20,000 requests/month
   * [Loco](https://localise.biz/) - Free up to 2000 translations, Unlimited translators, 10 languages/project, 1000 translatable assets/project
 
-## Monitoring
+## Monitoring 监控系统
 
   * [cloudsploit.com](https://cloudSploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc
   * [opbeat.com](https://opbeat.com/) — ​Instant performance insights for JS developers. Free with 24 hours data retention
@@ -262,7 +262,7 @@ Table of Contents
   * [assertible.com](https://assertible.com) - Automated API testing and monitoring. Free plans for teams and individuals.
   * [letsmonitor.org](http://letsmonitor.org/) - TLS certificate expiration and connectivity monitoring with email and SMS alerts.
 
-## Crash and Exception Handling
+## Crash and Exception Handling 崩溃异常收集 
 
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [bugsnag.com](https://bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
